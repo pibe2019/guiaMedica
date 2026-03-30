@@ -2,7 +2,7 @@
 - App sobre establecimientos de salud publicos y provados, donde muestra informacion sobre aquellos
 - Este proyecto fue desarrollado utilizando el paradigma de Programación Orientada a Objetos (POO) para asegurar un código mantenible y escalable.
 - fue implementado en el 2021. Ultima actualizacion : diciembre del 2021.
-- Primera version de esta App
+- Primera version de esta App .codigo COMENTADO
 
 ## Tecnologías
 - java
